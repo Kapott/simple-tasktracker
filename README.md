@@ -11,7 +11,7 @@ Questions I'd like answered:
 - [x] How can I bind singular data into a component so that it's rendered?
 - [x] How can I bind array data into a component so that it's rendered?
 - [x] How do components communicate state changes?
-- [ ] How do we $emit to a specific place? E.g. component -> parent -> grandchild
+- [x] How do we $emit to a specific place? E.g. component -> parent -> grandchild
 - [ ] Can we broadcast events to all components?
 - [ ] How does routing work?
 - [ ] How can we handle more complex state management?
