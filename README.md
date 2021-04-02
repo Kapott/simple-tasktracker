@@ -12,8 +12,8 @@ Questions I'd like answered:
 - [x] How can I bind array data into a component so that it's rendered?
 - [x] How do components communicate state changes?
 - [x] How do we $emit to a specific place? E.g. component -> parent -> grandchild
-- [ ] Can we broadcast events to all components?
-- [ ] How does routing work?
+- [x] Can we broadcast events to all components?
+- [x] How does routing work?
 - [ ] How can we handle more complex state management?
 - [ ] What part of the HTML can we render out beforehand?
 - [ ] How does the app tie into SEO requirements for annotated data?
