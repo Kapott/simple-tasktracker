@@ -1,6 +1,6 @@
 # simple-tasktracker
 
-Simple task tracker to learn myself some concepts
+Simple task tracker to learn myself some concepts of Vue3.
 
 
 Questions I'd like answered:
