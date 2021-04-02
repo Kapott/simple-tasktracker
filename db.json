@@ -1,28 +1,22 @@
 {
-    "tasks": [
-        {
-            "id": 1,
-            "text": "Gras maaien",
-            "day": "March 1st at 2:30pm",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Onkruid maaien",
-            "day": "March 1st at 2:30pm",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Trap schuren",
-            "day": "March 1st at 2:30pm",
-            "reminder": false
-        },
-        {
-            "id": 4,
-            "text": "Trap beitsen",
-            "day": "March 1st at 2:30pm",
-            "reminder": false
-        }
-    ]
+  "tasks": [
+    {
+      "text": "Task One",
+      "day": "Tomorrow",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Task Two",
+      "day": "April 1st, 2022",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Task Three",
+      "day": "January 1st, 2021",
+      "reminder": false,
+      "id": 3
+    }
+  ]
 }
