@@ -12,11 +12,13 @@
     <div id="notes">
       Doubleclick to toggle reminder.
     </div>
+    <Footer />
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue';
+import Footer from './components/Footer.vue';
 import Tasks from './components/Tasks.vue';
 import AddTask from './components/AddTask.vue';
 
@@ -24,6 +26,7 @@ export default {
   name: 'App',
   components: {
     Header,
+    Footer,
     Tasks,
     AddTask,
   },
