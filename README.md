@@ -2,14 +2,15 @@
 
 Simple task tracker to learn myself some concepts
 
-- [x] Basic setup
-- [x] Learn about project layout
-- [x] Learn about component splits
-- [x] Gain insight into why single-file components are a better separation of concerns for webdev than splitting by language.
-- [x] Awesome. We have scoped styling!
-- [x] Get distracted. Stop pomodoro timer. Restart pomodoro timer. Start learning again.
-- [x] Yada yada, arrays, loops in a v-for, data bound in main app if we don't use a statemanager.
-- [x] Alright, $emit is how we pass events around like we're 2015 AngularJS
+
+Questions I'd like answered:
+
+- [x] What does the basic setup look like?
+- [x] What does the basic project layout look like? (files, components etc)
+- [x] What are the concerns and how are they separated in this framework?
+- [x] How can I bind singular data into a component so that it's rendered?
+- [x] How can I bind array data into a component so that it's rendered?
+- [x] How do components communicate state changes?
 - [ ] How do we $emit to a specific place? E.g. component -> parent -> grandchild
 - [ ] Can we broadcast events to all components?
 - [ ] How does routing work?
